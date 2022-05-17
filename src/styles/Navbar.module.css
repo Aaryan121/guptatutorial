@@ -1,0 +1,27 @@
+.nav {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  padding: 0.7em 0;
+  background-color: ;
+}
+.brand {
+  font-family: "IM Fell DW Pica", serif;
+  font-weight: 400;
+  font-size: 30px;
+  padding-left: 1.7em;
+}
+.routes {
+  display: flex;
+  align-items: center;
+}
+ul {
+  display: flex;
+  margin-right: 5em;
+  list-style-type: none;
+}
+li {
+  padding-right: 1.5em;
+  font-size: 20px;
+}

@@ -4,7 +4,7 @@
   justify-content: space-between;
   flex-direction: row;
   padding: 0.7em 0;
-  background-color: ;
+  box-shadow: 0px 5px 15px rgba(9, 2, 54, 0.384);
 }
 .brand {
   font-family: "IM Fell DW Pica", serif;

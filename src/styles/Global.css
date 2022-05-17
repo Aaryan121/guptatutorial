@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  background: hsla(245, 30%, 16%, 1);
+  height: 100%;
+  width: 100%;
+  color: white;
+}
+
+p {
+  font-family: "GFS Neohellenic", serif;
+}
